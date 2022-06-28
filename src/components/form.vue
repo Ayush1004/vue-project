@@ -32,7 +32,7 @@ export default {
   methods: {
     onSubmit() {
       if (this.name == "" || this.review == "" || this.rating === null) {
-        alert("Review is incomplte. Please fill all the fields");
+        alert("Review is incomplete. Please fill all the fields");
         return;
       }
       let productReview = {
