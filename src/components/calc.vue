@@ -1,9 +1,9 @@
 <template>
   <div>
-    <label for="x">Enter first number:</label>
+    <label for="x">Enter First number: </label>
     <input id="x" v-model.number="x" /><br />
 
-    <label for="y">Enter first number:</label>
+    <label for="y">Enter Second number: </label>
     <input id="y" v-model.number="y" /><br />
 
     <button v-on:click="addition">Addition</button>
