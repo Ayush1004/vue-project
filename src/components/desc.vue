@@ -8,13 +8,13 @@ export default {
       log("xyz");
     });*/
   },
-  /*methods: {
+  methods: {
     display(liked) {
       for (let post in liked) {
         console.log(liked[post]);
       }
     },
-  },*/
+  },
   components: {
     p1,
   },

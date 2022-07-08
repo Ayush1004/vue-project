@@ -10,7 +10,7 @@
 //import temp from "./components/temp.vue";
 //import log from "./components/loginform.vue";
 //import temp from "./components/temp1.vue";
-import p1 from "./components/parent1.vue";
+//import p1 from "./components/parent1.vue";
 import display from "./components/desc.vue";
 export default {
   data() {},
